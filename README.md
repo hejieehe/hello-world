@@ -129,7 +129,6 @@ everything from changing your repository settings to configuring GitHub from you
 
 GitHub Test Commit
 
-
 GitHub Test Commit
 
 GitHub Test Commit
